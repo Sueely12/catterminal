@@ -1,12 +1,6 @@
 {
-    "pawstore": {
-      "latest_version": "1.6.0",
-      "update_url": "https://www.dropbox.com/scl/fi/rtkggt3zuixk8627a9pzk/Paw-Store-1.6.0.zip?rlkey=opihc86ch9jjqyq2ul41l0tgh&st=vtioegri&dl=1"
-    },
-    "games": {
-      "BRMP": {
-        "latest_version": "1.1.0",
-        "update_url": "https://www.dropbox.com/scl/fi/h0913p634o9c2v3vvy8zu/BRMP.zip?rlkey=cavcaejln90mf6bl78egr3p0u&st=vhnoakym&dl=1"
-      }
+    "catterminal": {
+      "latest_version": "1.0.0",
+      "update_url": ""
     }
   }
